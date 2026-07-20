@@ -14,3 +14,5 @@ Data Science Projects
 - Integrated a database layer to manage raw and processed data throughout the pipeline.
 - Combined RoBERTa sentiment analysis with BERTopic topic modeling to uncover audience opinions and discussion themes.
 - Automated the complete workflow from data acquisition to insight generation using Python, Hugging Face Transformers, BERTopic, and SQL.
+
+![Testo alternativo](images/sentiment_per_topic.png)
